@@ -13,5 +13,5 @@
 
 ### Evidencia 2: Modelo Mejorado
 
-[Link Google Colab Evidencia 1](https://colab.research.google.com/drive/1TGzVXwm-qTHs-tEwzlKu4bmfS1Cwi72w?usp=sharing)
+[Link Google Colab Evidencia 2](https://colab.research.google.com/drive/1TGzVXwm-qTHs-tEwzlKu4bmfS1Cwi72w?usp=sharing)
 
