@@ -9,4 +9,9 @@
 
 ### Evidencia 1: Análisis de Similitud Empleando Inteligencia Artificial
 
+[Link Google Colab Evidencia 1](https://colab.research.google.com/drive/1t1762-aYlW37PJ9KtEQRkcM4U2q4I8WS?usp=sharing)
+
 ### Evidencia 2: Modelo Mejorado
+
+[Link Google Colab Evidencia 1](https://colab.research.google.com/drive/1TGzVXwm-qTHs-tEwzlKu4bmfS1Cwi72w?usp=sharing)
+
