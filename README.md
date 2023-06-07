@@ -1,6 +1,6 @@
 # Repositorio para las Evidencias del Bloque
 
-## Materia: Desarrollo de Aplicaciones de Ciencias Computacionales TC3002B.301
+## Materia: Desarrollo de Aplicaciones Avanzadas de Ciencias Computacionales TC3002B.301
 
 ### Integrantes del Equipo:
 * Jorge Chávez Badillo A01749448
