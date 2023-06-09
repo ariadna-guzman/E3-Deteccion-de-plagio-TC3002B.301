@@ -10,7 +10,7 @@
 ### Evidencia 1: Análisis de Similitud Empleando Inteligencia Artificial
 [Link Google Colab Evidencia 1](https://colab.research.google.com/drive/1t1762-aYlW37PJ9KtEQRkcM4U2q4I8WS?usp=sharing)
 
-#### Solución propuesta
+#### Solución Propuesta
 Mediante esta primera evidencia, se busca poder realizar una detección de plagio comparando un archivo sospechoso con cada uno de los archivos genuinos existentes en la base de datos, para así poder identificar la existencia de cierto grado de similitud entre los archivos para finalmente poder clasificar el archivo como Plagio (1) o Genuino (0).
 
 Para ello, es importante mencionar los siguientes conceptos importantes, ya que son los modelos, algoritmos y métricas implementadas para la implementación:
@@ -31,10 +31,10 @@ Para ello, es importante mencionar los siguientes conceptos importantes, ya que 
 ### Evidencia 2: Modelo Mejorado
 [Link Google Colab Evidencia 2](https://colab.research.google.com/drive/1TGzVXwm-qTHs-tEwzlKu4bmfS1Cwi72w?usp=sharing)
 
-#### Solución propuesta
+#### Solución Propuesta
 Dentro de esta segunda evidencia, se implementa una mejora a nuestro sistema de detección de plagio a través de encoders utilizando el transformer BERT (Bidirectional Encoder Representations From Transformers), el cual nos ayuda de mejor manera a la precisión en comparación de textos.
 
-#### Librerías implementadas:
+#### Librerías Implementadas:
 * sklearn: Se utiliza para realizar tareas relacionadas con el aprendizaje automático, en este caso la extracción de palabras y el cálculo de la distancia de coseno.
 * os:  Sirve para realizar la gestión de archivos y el directorio donde se encuentra la base de datos con textos genuinos y sospechosos.
 * matplotlib: Para la visualización de las métricas a través de gráficos.
