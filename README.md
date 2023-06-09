@@ -11,7 +11,7 @@
 [Link Google Colab Evidencia 1](https://colab.research.google.com/drive/1t1762-aYlW37PJ9KtEQRkcM4U2q4I8WS?usp=sharing)
 
 #### Solución propuesta
-Mediante esta primera evidencia, se busca poder realizar una detección de plagio comparando un archivo sospechoso con cada uno de los archivos genuinos existentes en la base de datos, para así poder identificar la existencia de cierto grado de similitud entre los archivos para finalmente poder clasificar el archivo como Plagio (0) o Genuino (1).
+Mediante esta primera evidencia, se busca poder realizar una detección de plagio comparando un archivo sospechoso con cada uno de los archivos genuinos existentes en la base de datos, para así poder identificar la existencia de cierto grado de similitud entre los archivos para finalmente poder clasificar el archivo como Plagio (1) o Genuino (0).
 
 Para ello, es importante mencionar los siguientes conceptos importantes, ya que son los modelos, algoritmos y métricas implementadas para la implementación:
 
